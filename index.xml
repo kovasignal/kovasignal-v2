@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kova Signal</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Kova Signal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>May-2026</title>
+      <link>https://example.org/notes/2026/may-2026/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/notes/2026/may-2026/</guid>
+      <description>2026-05-29 WordPress is deceptively easy and convenient.&#xA;Recently, I realized that it is actually more difficult than it looks. Even when implementing a simple script, it is often necessary to take a roundabout approach. It feels unnecessarily complicated; in that sense, it may be too large and complex for a personal website. 2026-05-28 I have observed Japanese website owner communities over the past decade.&#xA;There are many different types of site owners, and it seems that the proportion of people running static sites and dynamic sites such as WordPress is roughly half and half.</description>
+    </item>
+    <item>
+      <title>June-2026</title>
+      <link>https://example.org/notes/2026/june-2026/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/notes/2026/june-2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/about/</guid>
+      <description> This site is a small archive of unfinished thoughts, personal observations, and fragments.&#xA;Topics:&#xA;Japanese old web culture,&#xA;Japanese society,&#xA;The UNIX philosophy,&#xA;Learning language,&#xA;Internet atmosphere. Who I am Name: pina&#xA;Location: Japan&#xA;Favorite: 90&#39;s JRPGs I prefer static HTML over complex platforms.&#xA;Contact &amp;#x63;&amp;#x6f;&amp;#x6e;&amp;#x74;&amp;#x61;&amp;#x63;&amp;#x74;&amp;#x40;&amp;#x6b;&amp;#x6f;&amp;#x76;&amp;#x61;&amp;#x73;&amp;#x69;&amp;#x67;&amp;#x6e;&amp;#x61;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d; </description>
+    </item>
+    <item>
+      <title>Essays</title>
+      <link>https://example.org/essays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/essays/</guid>
+      <description>Under Construction.</description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>https://example.org/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/notes/</guid>
+      <description>2026 June / May </description>
+    </item>
+  </channel>
+</rss>
