@@ -31,15 +31,14 @@
 <main>
   
 <h1>Essays</h1>
-
-<ul>
-
-    
-
-    <li><a href="/essays/finding-my-way-back/">Finding My Way Back Though Linux</a></li>
-
-    
-</ul>
+<p>{{ range where .Site.RegularPages &ldquo;Section&rdquo; &ldquo;essays&rdquo; }}</p>
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </li>
+{{ end }}
+<div class="sashie">
+<img src="/img/kudamono.png">
+</div>
 
 
 </main>
