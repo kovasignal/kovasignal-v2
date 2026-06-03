@@ -6,8 +6,15 @@
     <description>Recent content on Kova Signal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding My Way Back Though Linux</title>
+      <link>http://localhost:1313/essays/finding-my-way-back/</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essays/finding-my-way-back/</guid>
+      <description>I was a long-time Windows user, believing it was more practical than a Mac. However, at some point, I began to find the entire ecosystem stifling. There were too many pre-installed apps, intrusive Windows Updates, and the expectation that I would eventually have to replace my computer when support ended, even if it was still perfectly usable. Simply put, it felt outdated and overly centralized.&#xA;This may have been because I had started managing my own website around the same time.</description>
+    </item>
     <item>
       <title>May-2026</title>
       <link>http://localhost:1313/notes/2026/may-2026/</link>
@@ -35,13 +42,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/essays/</guid>
       <description>Under Construction.</description>
-    </item>
-    <item>
-      <title>linux</title>
-      <link>http://localhost:1313/essays/linux-draft/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/linux-draft/</guid>
-      <description>I was a long-time Windows user, believing it was more practical than a Mac. However, at some point, I began to find the entire ecosystem stifling. There were too many pre-installed apps, intrusive Windows Updates, and the expectation that I would eventually have to replace my computer when support ended, even if it was still perfectly usable. Simply put, it felt outdated and overly centralized.&#xA;This may have been because I had started managing my own website around the same time.</description>
     </item>
     <item>
       <title>Notes</title>
