@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fragments on Kova Signal</title>
+    <link>http://localhost:1313/notes/</link>
+    <description>Recent content in Fragments on Kova Signal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>May-2026</title>
+      <link>http://localhost:1313/notes/2026/may-2026/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/2026/may-2026/</guid>
+      <description>2026-05-29 WordPress is deceptively easy and convenient. Recently, I realized that it is actually more difficult than it looks. Even when implementing a simple script, it is often necessary to take a roundabout approach. It feels unnecessarily complicated; in that sense, it may be too large and complex for a personal website. 2026-05-28 I have observed Japanese website owner communities over the past decade.&#xA;There are many different types of site owners, and it seems that the proportion of people running static sites and dynamic sites such as WordPress is roughly half and half.</description>
+    </item>
+    <item>
+      <title>June-2026</title>
+      <link>http://localhost:1313/notes/2026/june-2026/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/2026/june-2026/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
