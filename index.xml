@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kova Signal</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:44393/</link>
     <description>Recent content on Kova Signal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:44393/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>August-2026</title>
-      <link>http://localhost:1313/notes/2026/august-2026/</link>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/2026/august-2026/</guid>
-      <description> 2026-08-18 I ordered a genuine leather bag. It is made to order and the lead time is about one month. I can&#39;t wait for it! </description>
+      <link>http://localhost:44393/notes/2026/august-2026/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:44393/notes/2026/august-2026/</guid>
+      <description> 2026-08-19 I used HelloTalk in 2023. I received messages from an American who had passed the Japanese-Language Proficiency Test Level N1 and an Indian who worked as an engineer in Japan. After exchanging some harmless small talk, we drifted apart. ¯\_(ツ)_/¯ 2026-08-18 I ordered a genuine leather bag. It is made to order and the lead time is about one month. I can&#39;t wait for it! </description>
     </item>
     <item>
       <title>The Home Icon</title>
-      <link>http://localhost:1313/essays/the-home-icon/</link>
+      <link>http://localhost:44393/essays/the-home-icon/</link>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/the-home-icon/</guid>
+      <guid>http://localhost:44393/essays/the-home-icon/</guid>
       <description>When I was eight years old, I stumbled upon a drawing board while searching for information about my favorite game. It was more than just an art community; people also shared stories about their pets and everyday lives. I also posted fan art there. Looking back, it was quite rough, but people were very welcoming.&#xA;The webmaster of the site usually chose the cover art for each month. Being selected was like a small honor, and I used to check the site excitedly every month.</description>
     </item>
     <item>
       <title>June-2026</title>
-      <link>http://localhost:1313/notes/2026/june-2026/</link>
+      <link>http://localhost:44393/notes/2026/june-2026/</link>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/2026/june-2026/</guid>
+      <guid>http://localhost:44393/notes/2026/june-2026/</guid>
       <description>2026-06-22 A YouTube channel where a housewife only removes calluses from her own feet and her husband’s feet resumed uploading for the first time in three years. It suddenly became active again just one month after I subscribed. Many viewers commented, “I’ve been waiting for you!” It felt surprisingly niche. 2026-06-14 Even though I don&#39;t really like articles written by AI, I used to think that every article had to be written perfectly, so I relied on ChatGPT to write them.</description>
     </item>
     <item>
       <title>Finding My Way Back Though Linux</title>
-      <link>http://localhost:1313/essays/finding-my-way-back/</link>
+      <link>http://localhost:44393/essays/finding-my-way-back/</link>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/finding-my-way-back/</guid>
+      <guid>http://localhost:44393/essays/finding-my-way-back/</guid>
       <description>I was a long-time Windows user, believing it was more practical than a Mac. However, at some point, I began to find the entire ecosystem stifling. There were too many pre-installed apps, intrusive Windows Updates, and the expectation that I would eventually have to replace my computer when support ended, even if it was still perfectly usable. Simply put, it felt outdated and overly centralized.&#xA;This may have been because I had started managing my own website around the same time.</description>
     </item>
     <item>
       <title>May-2026</title>
-      <link>http://localhost:1313/notes/2026/may-2026/</link>
+      <link>http://localhost:44393/notes/2026/may-2026/</link>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/2026/may-2026/</guid>
+      <guid>http://localhost:44393/notes/2026/may-2026/</guid>
       <description>2026-05-29 WordPress is deceptively easy and convenient. Recently, I realized that it is actually more difficult than it looks. Even when implementing a simple script, it is often necessary to take a roundabout approach. It feels unnecessarily complicated; in that sense, it may be too large and complex for a personal website. 2026-05-28 I have observed Japanese website owner communities over the past decade.&#xA;There are many different types of site owners, and it seems that the proportion of people running static sites and dynamic sites such as WordPress is roughly half and half.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:44393/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description> This site is a small archive of unfinished thoughts, personal observations, and fragments.&#xA;Topics:&#xA;Japanese old web culture,&#xA;The UNIX philosophy,&#xA;Learning language,&#xA;Internet atmosphere. Who I am Name: pina&#xA;Location: Japan&#xA;Favorite: 90&#39;s JRPGs I prefer static HTML over complex platforms.&#xA;Resources Hugo Antique public domain images Webring ←Hotline Webring → ← bucket webring [?] → </description>
+      <guid>http://localhost:44393/about/</guid>
+      <description> This site is a small archive of unfinished thoughts, personal observations, and fragments.&#xA;Topics:&#xA;Japanese old web culture,&#xA;The UNIX philosophy,&#xA;Learning language,&#xA;Internet atmosphere. Who I am Name: pina&#xA;Location: Japan&#xA;Favorite: 90&#39;s JRPGs I prefer static HTML over complex platforms.&#xA;Resources Hugo Antique public domain images Webrings ←Hotline Webring → ← bucket webring [?] → </description>
     </item>
     <item>
       <title>July-2026</title>
-      <link>http://localhost:1313/notes/2026/july-2026/</link>
+      <link>http://localhost:44393/notes/2026/july-2026/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/2026/july-2026/</guid>
+      <guid>http://localhost:44393/notes/2026/july-2026/</guid>
       <description> 2026-07-11 I have been watching videos of people who keep multiple pets. I especially like videos about raising live feeder insects. </description>
     </item>
   </channel>

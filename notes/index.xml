@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fragments on Kova Signal</title>
-    <link>http://localhost:1313/notes/</link>
+    <link>http://localhost:44393/notes/</link>
     <description>Recent content in Fragments on Kova Signal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:44393/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>August-2026</title>
-      <link>http://localhost:1313/notes/2026/august-2026/</link>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/2026/august-2026/</guid>
-      <description> 2026-08-18 I ordered a genuine leather bag. It is made to order and the lead time is about one month. I can&#39;t wait for it! </description>
+      <link>http://localhost:44393/notes/2026/august-2026/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:44393/notes/2026/august-2026/</guid>
+      <description> 2026-08-19 I used HelloTalk in 2023. I received messages from an American who had passed the Japanese-Language Proficiency Test Level N1 and an Indian who worked as an engineer in Japan. After exchanging some harmless small talk, we drifted apart. ¯\_(ツ)_/¯ 2026-08-18 I ordered a genuine leather bag. It is made to order and the lead time is about one month. I can&#39;t wait for it! </description>
     </item>
     <item>
       <title>June-2026</title>
-      <link>http://localhost:1313/notes/2026/june-2026/</link>
+      <link>http://localhost:44393/notes/2026/june-2026/</link>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/2026/june-2026/</guid>
+      <guid>http://localhost:44393/notes/2026/june-2026/</guid>
       <description>2026-06-22 A YouTube channel where a housewife only removes calluses from her own feet and her husband’s feet resumed uploading for the first time in three years. It suddenly became active again just one month after I subscribed. Many viewers commented, “I’ve been waiting for you!” It felt surprisingly niche. 2026-06-14 Even though I don&#39;t really like articles written by AI, I used to think that every article had to be written perfectly, so I relied on ChatGPT to write them.</description>
     </item>
     <item>
       <title>May-2026</title>
-      <link>http://localhost:1313/notes/2026/may-2026/</link>
+      <link>http://localhost:44393/notes/2026/may-2026/</link>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/2026/may-2026/</guid>
+      <guid>http://localhost:44393/notes/2026/may-2026/</guid>
       <description>2026-05-29 WordPress is deceptively easy and convenient. Recently, I realized that it is actually more difficult than it looks. Even when implementing a simple script, it is often necessary to take a roundabout approach. It feels unnecessarily complicated; in that sense, it may be too large and complex for a personal website. 2026-05-28 I have observed Japanese website owner communities over the past decade.&#xA;There are many different types of site owners, and it seems that the proportion of people running static sites and dynamic sites such as WordPress is roughly half and half.</description>
     </item>
     <item>
       <title>July-2026</title>
-      <link>http://localhost:1313/notes/2026/july-2026/</link>
+      <link>http://localhost:44393/notes/2026/july-2026/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/2026/july-2026/</guid>
+      <guid>http://localhost:44393/notes/2026/july-2026/</guid>
       <description> 2026-07-11 I have been watching videos of people who keep multiple pets. I especially like videos about raising live feeder insects. </description>
     </item>
   </channel>
