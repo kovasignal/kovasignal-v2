@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Essays on Kova Signal</title>
-    <link>http://localhost:44393/essays/</link>
+    <link>http://localhost:41843/essays/</link>
     <description>Recent content in Essays on Kova Signal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:44393/essays/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:41843/essays/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Home Icon</title>
-      <link>http://localhost:44393/essays/the-home-icon/</link>
+      <link>http://localhost:41843/essays/the-home-icon/</link>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:44393/essays/the-home-icon/</guid>
+      <guid>http://localhost:41843/essays/the-home-icon/</guid>
       <description>When I was eight years old, I stumbled upon a drawing board while searching for information about my favorite game. It was more than just an art community; people also shared stories about their pets and everyday lives. I also posted fan art there. Looking back, it was quite rough, but people were very welcoming.&#xA;The webmaster of the site usually chose the cover art for each month. Being selected was like a small honor, and I used to check the site excitedly every month.</description>
     </item>
     <item>
       <title>Finding My Way Back Though Linux</title>
-      <link>http://localhost:44393/essays/finding-my-way-back/</link>
+      <link>http://localhost:41843/essays/finding-my-way-back/</link>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:44393/essays/finding-my-way-back/</guid>
+      <guid>http://localhost:41843/essays/finding-my-way-back/</guid>
       <description>I was a long-time Windows user, believing it was more practical than a Mac. However, at some point, I began to find the entire ecosystem stifling. There were too many pre-installed apps, intrusive Windows Updates, and the expectation that I would eventually have to replace my computer when support ended, even if it was still perfectly usable. Simply put, it felt outdated and overly centralized.&#xA;This may have been because I had started managing my own website around the same time.</description>
     </item>
   </channel>
