@@ -21,7 +21,7 @@ body {
 
 @media (max-width: 684px) {
   body {
-    font-size: 1.53rem;
+    font-size: 1.35rem;
   }
 }
 
@@ -97,13 +97,8 @@ a:hover {
 }
 
 ul {
-  padding-left: 1.4em;
-  margin-top: 0px;
-  margin-bottom: 2.5rem;
-}
+  padding-left: 0px;
 
-li {
-  margin-bottom: 0.4em;
 }
 
 ul li::marker {
@@ -275,32 +270,28 @@ fieldset {
 }
 
 .log-entry {
-  margin: 24px 0;
-  padding: 18px 18px;
-  border: 1px solid #5b4b3a;
-  border-radius: 5px;
+  border-left: 2px solid #8a7966;
+  padding: 0.4rem 0 0.4rem 1.4rem;
+  margin: 2.4rem 0;
 }
 
 .log-entry time {
   display: block;
   margin-bottom: 8px;
   color: #666;
-  font-size: 0.9em;
+  font-size: 1.0em;
 
 }
 
-.log-entry p {
-  margin: 0;
-  line-height: 1.8;
-}
 
 .footer {
   color: #666;
   font-size: 15px;
   margin: 40px 0;
   padding: 10px;
-  text-align: center;
+  text-align: right;
   border-top: 1px solid #5b4b3a; /* 太さ、種類、色 */
+  font-style: italic;
 }
 
 .top-image {
@@ -350,15 +341,35 @@ fieldset {
   text-decoration: none;
 }
 
-.updates ul {
-  padding-left: 1.2rem;
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.4rem;
 }
 
-.updates time {
-  margin-right: 0.75rem;
-  opacity: 0.75;
+.updates {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  padding-inline-start: 0;
+    color: #666;
+
 }
 
+.updates li {
+  display: grid;
+  grid-template-columns: 10rem 1fr;
+  gap: 1rem;
+  margin: 0.8rem 0;
+  
+}
+@media (max-width: 600px) {
+  .updates li {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+    
+  }
+}
 .date {
   color: #666;
   font-size: 16px;
@@ -431,4 +442,7 @@ fieldset {
   margin-bottom: 0.3rem;
   font-size: 0.9em;
   color: #777;
+}
+.counter{
+  text-align: right;
 }
