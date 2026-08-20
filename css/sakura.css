@@ -108,7 +108,6 @@ li {
 
 ul li::marker {
   color: #5f7165; /* 好きな色に変更 */
-  content: "▪ ";
 }
 
 blockquote {
@@ -404,4 +403,32 @@ fieldset {
   height: auto;
   display: inline-block;
   border: 1px solid #5b4b3a;
+}
+
+.fragment-list {
+  list-style: none;
+  padding: 0;
+}
+
+.fragment-list li {
+  display: flex;
+  gap: 2rem;
+  margin: 1rem 0;
+}
+
+.fragment-date {
+  min-width: 5em;
+  color: #777;
+  font-variant-numeric: tabular-nums;
+}
+
+.essay-item {
+  margin: 2rem 0;
+}
+
+.essay-item time {
+  display: block;
+  margin-bottom: 0.3rem;
+  font-size: 0.9em;
+  color: #777;
 }

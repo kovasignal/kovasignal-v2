@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=44711&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Kova Signal</title>
@@ -32,29 +32,15 @@
 
 <main>
   
-
-<h1>Essays</h1>
-
-<div class="essay-list">
-  
-    <article class="essay-item">
-      <time datetime="2026-08-18">
-        2026.08.18
-      </time>
-
-        <a href="/essays/the-home-icon/">The Home Icon</a>
-    </article>
-  
-    <article class="essay-item">
-      <time datetime="2026-06-03">
-        2026.06.03
-      </time>
-
-        <a href="/essays/finding-my-way-back/">Finding My Way Back Though Linux</a>
-    </article>
-  
-</div>
-
+<h1>Fragments</h1>
+<p>{{ range .Pages }}
+<a href="{{ .RelPermalink }}">
+{{ .Title }}
+</a>
+{{ end }}</p>
+<div class="sashie">
+<img src="/img/kudamono.png">
+ </div>
 
 </main>
 <div class="footer">
