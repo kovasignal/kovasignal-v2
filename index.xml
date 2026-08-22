@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kova Signal</title>
-    <link>http://localhost:46623/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Kova Signal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 00:00:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:46623/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>August 2026</title>
-      <link>http://localhost:46623/notes/2026/august-2026/</link>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0900</pubDate>
-      <guid>http://localhost:46623/notes/2026/august-2026/</guid>
+      <link>http://localhost:1313/notes/2026/august-2026/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/notes/2026/august-2026/</guid>
       <description></description>
     </item>
     <item>
       <title>The Home Icon</title>
-      <link>http://localhost:46623/essays/the-home-icon/</link>
+      <link>http://localhost:1313/essays/the-home-icon/</link>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0900</pubDate>
-      <guid>http://localhost:46623/essays/the-home-icon/</guid>
+      <guid>http://localhost:1313/essays/the-home-icon/</guid>
       <description>When I was eight years old, I stumbled upon a drawing board while searching for information about my favorite game. It was more than just an art community; people also shared stories about their pets and everyday lives. I also posted fan art there. Looking back, it was quite rough, but people were very welcoming.&#xA;The webmaster of the site usually chose the cover art for each month. Being selected was like a small honor, and I used to check the site excitedly every month.</description>
     </item>
     <item>
       <title>July 2026</title>
-      <link>http://localhost:46623/notes/2026/july-2026/</link>
+      <link>http://localhost:1313/notes/2026/july-2026/</link>
       <pubDate>Sat, 11 Jul 2026 00:00:00 +0900</pubDate>
-      <guid>http://localhost:46623/notes/2026/july-2026/</guid>
+      <guid>http://localhost:1313/notes/2026/july-2026/</guid>
       <description></description>
     </item>
     <item>
       <title>June 2026</title>
-      <link>http://localhost:46623/notes/2026/june-2026/</link>
+      <link>http://localhost:1313/notes/2026/june-2026/</link>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0900</pubDate>
-      <guid>http://localhost:46623/notes/2026/june-2026/</guid>
+      <guid>http://localhost:1313/notes/2026/june-2026/</guid>
       <description></description>
     </item>
     <item>
       <title>Finding My Way Back Though Linux</title>
-      <link>http://localhost:46623/essays/finding-my-way-back/</link>
+      <link>http://localhost:1313/essays/finding-my-way-back/</link>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0900</pubDate>
-      <guid>http://localhost:46623/essays/finding-my-way-back/</guid>
+      <guid>http://localhost:1313/essays/finding-my-way-back/</guid>
       <description>I was a long-time Windows user, believing it was more practical than a Mac. However, at some point, I began to find the entire ecosystem stifling. There were too many pre-installed apps, intrusive Windows Updates, and the expectation that I would eventually have to replace my computer when support ended, even if it was still perfectly usable. Simply put, it felt outdated and overly centralized.&#xA;This may have been because I had started managing my own website around the same time.</description>
     </item>
     <item>
       <title>May 2026</title>
-      <link>http://localhost:46623/notes/2026/may-2026/</link>
+      <link>http://localhost:1313/notes/2026/may-2026/</link>
       <pubDate>Fri, 29 May 2026 00:00:00 +0900</pubDate>
-      <guid>http://localhost:46623/notes/2026/may-2026/</guid>
+      <guid>http://localhost:1313/notes/2026/may-2026/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:46623/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:46623/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>This site is a small archive of unfinished thoughts, personal observations, and fragments.&#xA;I prefer static HTML over complex platforms.&#xA;Topics:&#xA;Japanese old web culture,&#xA;Learning language,&#xA;Internet atmosphere,&#xA;Everyday Life. Who I am Name pina Location Japan Favorite 90&#39;s JRPG Contact &amp;#x63;&amp;#x6f;&amp;#x6e;&amp;#x74;&amp;#x61;&amp;#x63;&amp;#x74;&amp;#x40;&amp;#x6b;&amp;#x6f;&amp;#x76;&amp;#x61;&amp;#x73;&amp;#x69;&amp;#x67;&amp;#x6e;&amp;#x61;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d; Colophon Generator Hugo Built on Ubuntu Linux Editor VS Codium Hosted on GitHub Pages Typography Limelight via Google Fonts Artwork Antique Public Domain Images JavaScript None Analytics None Webrings ←Hotline Webring → ← bucket webring [?</description>
     </item>
   </channel>
